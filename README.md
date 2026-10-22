@@ -3,7 +3,9 @@ Adyashit Biswal — AI/ML & Full-Stack Developer Portfolio
 An immersive, interactive developer portfolio featuring a futuristic AI robot, cinematic animations, and a showcase of projects at the intersection of artificial intelligence, machine learning, and full-stack development.
 
 Live Demo: "View Portfolio" (https://adyashit-portfolio.vercel.app/)
+
 Developer: "Adyashit Biswal" (https://www.linkedin.com/in/adyashitbiswal-060853367/)
+
 GitHub: "adyashitbiswal-rgb" (https://github.com/adyashitbiswal-rgb)
 
 ---
