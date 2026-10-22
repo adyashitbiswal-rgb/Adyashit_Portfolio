@@ -105,20 +105,20 @@ The actual port may differ depending on the project's configuration.
 
 The following is a simplified overview of the main application areas.
 
-.
-├── public/                  # Static assets
-├── src/
-│   ├── assets/              # Images and visual assets
-│   ├── components/
-│   │   ├── portfolio/       # Portfolio UI and interactive sections
-│   │   └── ui/              # Reusable interface components
-│   ├── lib/                 # Shared utilities and portfolio data
-│   ├── routes/              # Application routes
-│   └── styles/              # Application styling, if configured here
-├── package.json             # Dependencies and scripts
-├── package-lock.json        # Dependency lockfile
-├── vite.config.ts           # Vite configuration, if present
-└── README.md
+    .
+    ├── public/                  # Static assets
+    ├── src/
+    │   ├── assets/              # Images and visual assets
+    │   ├── components/
+    │   │   ├── portfolio/       # Portfolio UI and interactive sections
+    │   │   └── ui/              # Reusable interface components
+    │   ├── lib/                 # Shared utilities and portfolio data
+    │   ├── routes/              # Application routes
+    │   └── styles/              # Application styling, if configured here
+    ├── package.json             # Dependencies and scripts
+    ├── package-lock.json        # Dependency lockfile
+    ├── vite.config.ts           # Vite configuration, if present
+    └── README.md
 
 The structure may vary depending on the current version of the repository.
 
