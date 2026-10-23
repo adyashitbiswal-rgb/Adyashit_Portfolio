@@ -109,7 +109,7 @@ export const certifications = [
 ];
 
 export const education = [
-  { degree: "B.Tech in Computer Science & Information Technology", school: "Gandhi Institute for Technological Advancement", period: "2023 – Present", result: "CGPA 7.7 / 10", current: true },
+  { degree: "B.Tech in Computer Science & Information Technology", school: "Gandhi Institute for Technological Advancement", period: "2023 – Present", result: "CGPA 8.0 / 10", current: true },
   { degree: "Higher Secondary Education", school: "Mayadhar Higher Secondary School, Bhubaneswar", period: "2021 – 2023", result: "62%" },
   { degree: "Secondary Education", school: "Saraswati Sishu Vidya Mandir, Talcher", period: "2020 – 2021", result: "68.33%" },
 ];
