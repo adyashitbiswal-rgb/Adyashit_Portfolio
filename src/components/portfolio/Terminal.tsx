@@ -8,7 +8,7 @@ const commands: Record<string, string[]> = {
   skills: ["Programming : Python, C, Java, SQL", "Web         : HTML5, CSS3, JavaScript, React, Node.js, FastAPI", "AI/ML       : Supervised Learning, Image Processing, Model Evaluation", "Tools       : Git, GitHub, VS Code, MySQL, PostgreSQL"],
   projects: ["Three featured projects are available:", "  01 Deepfake Detection System", "  02 AI-Powered Diet Planner", "  03 AI Career Copilot  ★ flagship"],
   achievements: ["◆ AI Internship — IBM SkillsBuild (AICTE)", "◆ Coursera: Data Structures in C · Programming in Python", "  HTML & CSS in Depth · ML Introduction for Everyone"],
-  education: ["B.Tech CSIT · GITA · 2023–Present · CGPA 7.7", "Higher Secondary · Mayadhar HSS · 62%", "Secondary · Saraswati Sishu Vidya Mandir · 68.33%"],
+  education: ["B.Tech CSIT · GITA · 2023–Present · CGPA 8.0", "Higher Secondary · Mayadhar HSS · 62%", "Secondary · Saraswati Sishu Vidya Mandir · 68.33%"],
   contact: [`email    ${profile.email}`, `phone    ${profile.phone}`, `github   ${profile.github}`, `linkedin ${profile.linkedin}`],
 };
 
